@@ -32,7 +32,7 @@ and channels influence repeat purchases.
 - Includes seasonal spikes (Onam, Christmas), omnichannel behavior, and campaign types
 
 ## Dashboard Preview
-[Add screenshot here]
+![Dashboard Preview](dashboard/Dashboard_Screenshot.png)
 
 ## Key Insights
 1. 54.2% repeat purchase rate with an average repeat gap of 129 days
@@ -81,9 +81,3 @@ project-root/
 - Business KPI design and dashboard creation (Power BI)
 - Translating business questions into actionable insights
 
-## Skills Demonstrated
-- Synthetic data generation with realistic business patterns (Python)
-- Data cleaning and governance (SQL Server)
-- RFM-based customer segmentation
-- Business KPI design and dashboard creation (Power BI)
-- Translating business questions into actionable insights
