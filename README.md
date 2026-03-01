@@ -32,7 +32,7 @@ and channels influence repeat purchases.
 - Includes seasonal spikes (Onam, Christmas), omnichannel behavior, and campaign types
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard/dashboard_screenshot .png)
+![Dashboard Preview](dashboard/dashboard_screenshot.png)
 
 ## Key Insights
 1. 54.2% repeat purchase rate with an average repeat gap of 129 days
