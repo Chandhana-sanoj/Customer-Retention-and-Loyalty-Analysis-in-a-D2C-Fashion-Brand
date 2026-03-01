@@ -67,32 +67,25 @@ and channels influence repeat purchases.
 - Focused on decision-ready metrics, not vanity metrics
 
 ## Repository Structure
-'''
 Customer-Retention-and-Loyalty-Analysis/
-│
 ├── data/
-│   ├── Data_Generation.ip
 │   ├── customers.csv
 │   ├── orders.csv
 │   ├── order_items.csv
 │   └── products.csv
-│
 ├── sql/
 │   ├── 01_data_quality_and_cleaning.sql
 │   ├── 02_business_metrics.sql
 │   ├── 03_retention_rfm.sql
 │   ├── 04_campaign_omnichannel.sql
 │   └── 05_time_analysis.sql
-│
 ├── dashboard/
 │   └── dashboard_screenshot.png
-│
 ├── docs/
 │   ├── Business_Context_and_Problem.pdf
 │   └── Key_Insights_and_Recommendations.pdf
-│
+├── Data_Generation.ipynb
 └── README.md
-'''
 
 ## Skills Demonstrated
 - Synthetic data generation with realistic business patterns (Python)
