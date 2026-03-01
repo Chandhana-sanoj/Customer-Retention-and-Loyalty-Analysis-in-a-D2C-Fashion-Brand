@@ -67,6 +67,7 @@ and channels influence repeat purchases.
 - Focused on decision-ready metrics, not vanity metrics
 
 ## Repository Structure
+'''
 Customer-Retention-and-Loyalty-Analysis/
 │
 ├── data/
@@ -91,6 +92,7 @@ Customer-Retention-and-Loyalty-Analysis/
 │   └── Key_Insights_and_Recommendations.pdf
 │
 └── README.md
+'''
 
 ## Skills Demonstrated
 - Synthetic data generation with realistic business patterns (Python)
