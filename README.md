@@ -29,7 +29,7 @@ and channels influence repeat purchases.
 ## Dataset
 - 10,000 customers | 21,000+ orders | 18 months (July 2024 – December 2025)
 - Generated using Python to simulate realistic D2C retail patterns
-- Includes seasonal spikes (Onam, Christmas), omnichannel behavior, and campaign types
+- Includes seasonal spikes, omnichannel behavior, and campaign types
 
 ## Dashboard Preview
 ![Dashboard Preview](dashboard/dashboard_screenshot.png)
